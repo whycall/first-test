@@ -2,4 +2,5 @@
 void foo2()
 {
 	printf("foo2\n");
+	print("fun2 call \n");
 }
