@@ -3,10 +3,9 @@
 
 int main()
 {
+
+	printf("bug456 fix\n");
 	callfoo();
-	printf("bug123 fix\n");
-	callfoo();
-	printf("bug123 fix2\n");
-	printf("bug123 fix3\n");
+	printf("bug456 fix 2 \n");
 	return 0;
 }
