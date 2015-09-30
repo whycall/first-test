@@ -5,6 +5,6 @@ int main()
 {
 
 	printf("bug456 fix\n");
-	callfoo();
+	printf("so late");
 	return 0;
 }
