@@ -4,6 +4,7 @@
 int main()
 {
 	callfoo();
-	printf("yaho\n");
+	printf("bug123 fix\n");
+	callfoo();
 	return 0;
 }
