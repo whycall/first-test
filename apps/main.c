@@ -4,5 +4,6 @@
 int main()
 {
 	callfoo();
+	printf("yaho\n");
 	return 0;
 }
